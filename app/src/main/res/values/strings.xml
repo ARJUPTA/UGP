@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Arsenic Detector</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="send_for_analysis">Send for Analysis</string>
+    <string name="image_preview">Image Preview</string>
+    <string name="arsenic_content_result">The level of Arsenic in this water sample is</string>
+    <string name="safe_to_drink">Safe for Drinking</string>
+    <string name="unsafe_to_drink">Unsafe for Drinking</string>
+    <string name="demo_result_value">0.005 ppm</string>
+    <string name="safe_unsafe_preview">Safe or Unsafe Water</string>
+</resources>
